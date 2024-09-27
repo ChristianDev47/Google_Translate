@@ -64,4 +64,4 @@ This project exemplifies a full-stack development approach to creating a modern 
 
 You can see the application in action here: [Google Translate Live Demo](https://google-translate-pink.vercel.app/).
 
-![To-Do App Demo](https://raw.githubusercontent.com/ChristianDev47/Google_Translate/refs/heads/master/public/google_translate.webp)
+![Google Translate Demo](https://raw.githubusercontent.com/ChristianDev47/Google_Translate/refs/heads/master/Frontend/public/google_translate.webp)
