@@ -1,6 +1,6 @@
 # Fullstack Translation System
 
-This project is a comprehensive full-stack application designed to provide efficient text translation services. It includes a backend API and a frontend interface, each built with modern technologies to ensure a robust, scalable, and user-friendly translation system.
+This project is a full-stack application designed to deliver fast and efficient text translation services, inspired by Google Translate. It features a powerful backend API and a responsive frontend interface, both built using modern technologies to ensure scalability, performance, and an intuitive user experience.
 
 ## Project Overview
 
@@ -56,11 +56,12 @@ The system is divided into two primary components:
 - **Backend**: Handles all server-side logic, including API endpoints, translation services, and error handling.
 - **Frontend**: Provides a dynamic user interface, interacting with the backend API to display and manage translation data.
 
-Each component of the project is designed to be modular, facilitating easy maintenance, scaling, and future enhancements.
+Each part of the project is built with modularity in mind, allowing for easy maintenance, scalability, and future enhancements. The separation of concerns between the frontend and backend ensures that both layers can evolve independently, adapting to new requirements or technologies as the project grows.
 
-For detailed documentation on each part of the project, please refer to the respective README files:
+This project exemplifies a full-stack development approach to creating a modern translation application, using cutting-edge technologies and adhering to industry best practices to deliver a robust, efficient, and user-friendly solution.
 
-- [Django Translation API Documentation](https://github.com/ChristianDev47/Google_Translate/blob/master/Backend/README.md)
-- [Translation Frontend Documentation](https://github.com/ChristianDev47/Google_Translate/blob/master/Frontend/README.md)
+## Demo
 
-This project showcases a full-stack approach to building a modern translation application, leveraging contemporary technologies and best practices to deliver an efficient and user-friendly solution.
+You can see the application in action here: [Google Translate Live Demo](https://google-translate-pink.vercel.app/).
+
+![To-Do App Demo](https://raw.githubusercontent.com/ChristianDev47/Google_Translate/refs/heads/master/public/google_translate.webp)
